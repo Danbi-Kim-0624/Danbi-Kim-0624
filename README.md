@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Danbi (@Danbi-Kim-0624).
+👋 Hi, I’m Danbi (@Danbi-Kim-0624).
 I'm passionate about solving complex problems, and I enjoy exploring challenges from an interdisciplinary perspective.
 My goal is to find innovative solutions by connecting different fields of knowledge.
 
