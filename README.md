@@ -2,9 +2,12 @@
 I'm passionate about solving complex problems, and I enjoy exploring challenges from an interdisciplinary perspective.
 My goal is to find innovative solutions by connecting different fields of knowledge.
 
-If you want to know more about me, please visit my page.
+If you want to know more about me and my projects, please visit my page.
+
 🔗 My Page: https://danbi-kim-0624.github.io
+
 📫 How to reach me:
+
 danbi@kaist.ac.kr or danbi.kim.0624@gmail.com
 
 <!---
